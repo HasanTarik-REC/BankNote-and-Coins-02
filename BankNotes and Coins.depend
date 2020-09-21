@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600684403 source:e:\c programming\banknotes and coins\main.c
+	<stdio.h>
+	<stdlib.h>
+
